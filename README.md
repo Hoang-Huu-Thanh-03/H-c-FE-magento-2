@@ -1,1 +1,1 @@
-# H-c-FE-magento-2
+# magento-2
